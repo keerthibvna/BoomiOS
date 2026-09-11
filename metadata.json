@@ -1,0 +1,6 @@
+{
+  "name": "National Digital Platform for Land Governance",
+  "description": "AI-enabled national knowledge and decision-support platform for Indian land governance, policy innovation, GIS analytics, and evidence-based research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
